@@ -33,6 +33,7 @@ Virtual Private Network (VPN)
 
 ## Architecture
 The high-level architecture for the project is illustrated in the diagram below:
+![arch](https://user-images.githubusercontent.com/87303846/139535329-728f63bb-6776-48ab-9475-1149c6a4a8cf.jpg)
 
 Virtual Private Cloud: This enables me to launch the AWS resources into a virtual secured network.
 
